@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World! It's Java maven";
+    private static final String MESSAGE = "Hello World! It is Java maven";
 
     public App() {}
 
